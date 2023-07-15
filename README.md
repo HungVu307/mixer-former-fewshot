@@ -26,6 +26,9 @@ available. In addition, this model still satisfies the requirements
 and produces excellent results when trained with a significant
 quantity of data.
 ## Our contributions
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/97786db3-b46b-4f08-9c15-96cd3bc987a9)
+
+
   Proposing a new architecture for identifying bearing
 faults. The end-to-end few-shot model that we’ve sug-
 gested is one that uses a covariance matrix to as-
