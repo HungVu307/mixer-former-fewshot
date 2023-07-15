@@ -77,6 +77,7 @@ improves the accuracy when reaching 95.61% (5 shots) and
 solves the problem of Siamese when our proposed model is
 an end-to-end model, improved from CovaMnet (93,44% in
 5 shots) and better than it
+
 ![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/4fb25d76-5189-4e62-9fd6-ba20cb5aebcf)
 
   Table II shows the superiority of the proposed model
@@ -98,6 +99,7 @@ effectiveness of using the Multi-head self-attention mech-
 anism (MHSA) as presented in III-C, Table III shows the
 comparison in the ablation study in both CWRU and HUST-
 Bearing.
+
 ![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/4181d152-218e-4eaf-9ee3-eff339fba8ad)
 
   The results in Table III show the effectiveness of using
