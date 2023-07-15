@@ -1,6 +1,6 @@
 # MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis
-CWRU Dataset:
-HUST-Bearing Dataset:
+CWRU Dataset: [CWRU][https://onedrive.live.com/?authkey=%21ABjTfwuf9JDxJGg&id=C42A7BAEE78840DE%21421&cid=C42A7BAEE78840DE&parId=root&parQt=sharedby&o=OneUp]
+HUST-Bearing Dataset: [HUST-Bearing][https://data.mendeley.com/datasets/cbv7jyx4p9/2]
 ## Abstract
   Deep inside the electrical machine, bearings are
 a delicate and easily injured component. Consequently, identi-
