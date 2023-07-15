@@ -60,4 +60,56 @@ CWRU, for instance, our model outperforms conven-
 tional models with less than 93% accuracy and up to
 95.61% percent accuracy with just 60 training samples.
 ## Results
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/a582ec98-5e45-4b71-9d58-56065644fa15)
+
+Table I has demonstrated the suggested model’s accuracy
+advantage over competing models. When the amount of
+training data is poor, WDCNN [26] and Conv-Mixer [12],
+two well-known conventional end-to-end models, practically
+fall and lack of the requisite accuracy when identifying
+failures. While there are only 60 training samples, 64.93%
+and 70.14%). Meanwhile, few-shot models show better
+performance when training with small data, which is also
+shown in [14]. However, although Siamese model [27]
+achieves 86.12% accuracy (5 shots), it is complicated when
+it requires 2 stages to diagnose. Our proposed model both
+improves the accuracy when reaching 95.61% (5 shots) and
+solves the problem of Siamese when our proposed model is
+an end-to-end model, improved from CovaMnet (93,44% in
+5 shots) and better than it
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/4fb25d76-5189-4e62-9fd6-ba20cb5aebcf)
+
+  Table II shows the superiority of the proposed model
+under different training data conditions. With only 1% of
+the training samples, the proposed model gave an accuracy
+of 80.01% (higher than Lenet, only 70.30%). Even with
+only 5% of the total training samples, Our Mixer-former
+CovaMNet outperformed all the training models with 100%
+of the samples reported in the table. The suggested model
+achieves 100% accuracy for all training data, something no
+other model has been documented to be able to do. Thus,
+the Few-shot end-to-end model has solved the problem of
+data limitation in modern deep learning models. With good
+results on both CWRU and HUST-Bearing data sets, the
+proposed model has demonstrated outstanding performance
+in low data conditions, which is consistent with reality in
+diagnosing bearing failure. In addition, to demonstrate the
+effectiveness of using the Multi-head self-attention mech-
+anism (MHSA) as presented in III-C, Table III shows the
+comparison in the ablation study in both CWRU and HUST-
+Bearing.
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/4181d152-218e-4eaf-9ee3-eff339fba8ad)
+
+  The results in Table III show the effectiveness of using
+the proposed MHSA structure in low data conditions. With
+CWRU, the results show that when training with 5 shots,
+the accuracy in 60 training samples is 94.12%, which is
+not as good as when having MHSA with 95.61%. Same
+with HUST-Bearing in training condition with 1% of total
+training samples. The result with MHSA is 80.10%, better
+than 78.26% without. This shows the effectiveness of the
+MHSA mechanism in the condition of little data, helping
+the model focus on special and distinctive features, helping
+the model increase the accuracy of classification.
+
 # Citation
