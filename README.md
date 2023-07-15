@@ -27,6 +27,9 @@ and produces excellent results when trained with a significant
 quantity of data.
 ## Our contributions
 ![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/97786db3-b46b-4f08-9c15-96cd3bc987a9)
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/a3d714bf-3cbe-4268-a435-f447b95dd835)
+![image](https://github.com/VuManhHung307201/MixerFormer-CovaMnet-A-New-Few-shot-Learning-Model-for-Bearing-Fault-Diagnosis/assets/106971509/cfb433c6-aa06-44fd-8cce-108805664729)
+
 
 
   Proposing a new architecture for identifying bearing
